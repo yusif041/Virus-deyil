@@ -1,3 +1,3 @@
 do
-msgbox "virus deyil!!!!!"
+msgbox "not virus!!!!!"
 loop
